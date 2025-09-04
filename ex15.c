@@ -1,0 +1,1 @@
+/*Peça um número inteiro ao usuário e mostre a tabuada de 1 a 10 desse número.*/
